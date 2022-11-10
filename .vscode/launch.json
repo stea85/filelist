@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["--path", "C:\\Users\\Stefano\\Desktop\\20220327 - xz1 compact\\Rufus"]
+            "args": ["--path", "C:\\Users\\Stefano\\sample"]
         }
     ]
 }
